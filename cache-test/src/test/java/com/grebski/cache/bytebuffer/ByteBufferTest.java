@@ -1,4 +1,4 @@
-package com.grebski.chronicle;
+package com.grebski.cache.bytebuffer;
 
 import com.google.common.collect.ImmutableList;
 import com.grebski.cache.util.ByteBufferUtils;
