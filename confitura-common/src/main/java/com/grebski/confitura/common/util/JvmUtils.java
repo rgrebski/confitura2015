@@ -1,4 +1,4 @@
-package com.grebski.cache.util;
+package com.grebski.confitura.common.util;
 
 import com.google.common.base.Joiner;
 import com.google.common.collect.ImmutableList;
